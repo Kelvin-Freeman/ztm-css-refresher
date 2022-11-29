@@ -2,8 +2,15 @@
     Property: value;
 } */
 
+body {
+    background-image: url(./mixing-console2.jpg) ;
+    background-size: cover;
+}
+
 h2 {
     color: red;
+    text-align: center;
+    border: 5px solid blue;
 }
 
 p {
@@ -12,4 +19,8 @@ p {
 
 p {
     color: green;
+}
+
+li {
+    list-style: none;
 }
